@@ -7,13 +7,9 @@ Find the project requirements here: [Simple web contact form](https://www.codeme
 # Built with HTML, CSS, PHP, Bootsrap 5
 Screenshots :
 
-1. Form Input ( index.html )
-    a. clean ( https://s.id/BaHUz )
-    b. with data ( https://s.id/gsZNQ )
+1. Form Input ( index.html ) [clean : https://s.id/BaHUz] [ with data : https://s.id/gsZNQ ]
    
-2. Post ( post.php )
-    a. clean ( https://s.id/yrtLM )
-    b. with data ( https://s.id/DnZzK )
+2. Post ( post.php ) [clean : https://s.id/yrtLM ] [ with data : https://s.id/DnZzK ]
 
 ## Use Case :
 1. Fill out the form and submit it ( index.html )
